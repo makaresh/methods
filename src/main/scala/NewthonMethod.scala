@@ -1,5 +1,3 @@
-import org.graalvm.compiler.hotspot.nodes.`type`.MethodPointerStamp.method
-
 import scala.annotation.tailrec
 
 object NewthonMethod {
